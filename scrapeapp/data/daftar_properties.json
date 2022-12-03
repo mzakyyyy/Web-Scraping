@@ -1,0 +1,3539 @@
+[
+    {
+        "id": 1,
+        "kamar_tidur": 6,
+        "kamar_mandi": 6,
+        "car_port": 1,
+        "luas_tanah": 500,
+        "luas_bangunan": 500,
+        "harga": 10500000000
+    },
+    {
+        "id": 2,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 66,
+        "luas_bangunan": 56,
+        "harga": 698000000
+    },
+    {
+        "id": 3,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 336,
+        "luas_bangunan": 418,
+        "harga": 15000000000
+    },
+    {
+        "id": 4,
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 396,
+        "luas_bangunan": 465,
+        "harga": 18000000000
+    },
+    {
+        "id": 5,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 4,
+        "luas_tanah": 160,
+        "luas_bangunan": 190,
+        "harga": 5600000000
+    },
+    {
+        "id": 6,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 60,
+        "harga": 345000000
+    },
+    {
+        "id": 7,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 22,
+        "luas_bangunan": 42,
+        "harga": 528000000
+    },
+    {
+        "id": 8,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 39,
+        "luas_bangunan": 56,
+        "harga": 1100000000
+    },
+    {
+        "id": 9,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 56,
+        "luas_bangunan": 87,
+        "harga": 1900000000
+    },
+    {
+        "id": 10,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 38,
+        "harga": 249000000
+    },
+    {
+        "id": 11,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 32,
+        "luas_bangunan": 63,
+        "harga": 793000000
+    },
+    {
+        "id": 12,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 150,
+        "harga": 2300000000
+    },
+    {
+        "id": 13,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1590000000
+    },
+    {
+        "id": 14,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 3,
+        "luas_tanah": 192,
+        "luas_bangunan": 350,
+        "harga": 3800000000
+    },
+    {
+        "id": 15,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 3,
+        "luas_tanah": 250,
+        "luas_bangunan": 340,
+        "harga": 2600000000
+    },
+    {
+        "id": 16,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 3,
+        "luas_tanah": 80,
+        "luas_bangunan": 120,
+        "harga": 1880000000
+    },
+    {
+        "id": 17,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 90,
+        "harga": 2200000000
+    },
+    {
+        "id": 18,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 126,
+        "luas_bangunan": 250,
+        "harga": 3000000000
+    },
+    {
+        "id": 19,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 77,
+        "luas_bangunan": 130,
+        "harga": 1500000000
+    },
+    {
+        "id": 20,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 135,
+        "luas_bangunan": 200,
+        "harga": 3500000000
+    },
+    {
+        "id": 21,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 92,
+        "luas_bangunan": 230,
+        "harga": 2900000000
+    },
+    {
+        "id": 22,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 200,
+        "harga": 800000000
+    },
+    {
+        "id": 23,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 185,
+        "harga": 3700000000
+    },
+    {
+        "id": 24,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 60,
+        "luas_bangunan": 60,
+        "harga": 750000000
+    },
+    {
+        "id": 25,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 68,
+        "luas_bangunan": 56,
+        "harga": 779000000
+    },
+    {
+        "id": 26,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 357,
+        "luas_bangunan": 80,
+        "harga": 620000000
+    },
+    {
+        "id": 27,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 50,
+        "luas_bangunan": 40,
+        "harga": 459000000
+    },
+    {
+        "id": 28,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 816,
+        "luas_bangunan": 1200,
+        "harga": 87700000000
+    },
+    {
+        "id": 29,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 35,
+        "luas_bangunan": 69,
+        "harga": 1090000000
+    },
+    {
+        "id": 30,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1470000000
+    },
+    {
+        "id": 31,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 150,
+        "luas_bangunan": 67,
+        "harga": 3500000000
+    },
+    {
+        "id": 32,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 22,
+        "luas_bangunan": 42,
+        "harga": 558000000
+    },
+    {
+        "id": 33,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 27,
+        "luas_bangunan": 42,
+        "harga": 519000000
+    },
+    {
+        "id": 34,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 55,
+        "harga": 930000000
+    },
+    {
+        "id": 35,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 200,
+        "harga": 780000000
+    },
+    {
+        "id": 36,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 124,
+        "luas_bangunan": 240,
+        "harga": 1560000000
+    },
+    {
+        "id": 37,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 98,
+        "harga": 1290000000
+    },
+    {
+        "id": 38,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 39,
+        "harga": 850000000
+    },
+    {
+        "id": 39,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 68,
+        "luas_bangunan": 36,
+        "harga": 500000000
+    },
+    {
+        "id": 40,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 74,
+        "harga": 1060000000
+    },
+    {
+        "id": 41,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 117,
+        "luas_bangunan": 177,
+        "harga": 2600000000
+    },
+    {
+        "id": 42,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 45,
+        "harga": 660000000
+    },
+    {
+        "id": 43,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 95,
+        "harga": 1530000000
+    },
+    {
+        "id": 44,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 135,
+        "harga": 1200000000
+    },
+    {
+        "id": 45,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 76,
+        "harga": 1140000000
+    },
+    {
+        "id": 46,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 75,
+        "luas_bangunan": 50,
+        "harga": 780000000
+    },
+    {
+        "id": 47,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 88,
+        "luas_bangunan": 40,
+        "harga": 699000000
+    },
+    {
+        "id": 48,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 350,
+        "harga": 7490000000
+    },
+    {
+        "id": 49,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1400000000
+    },
+    {
+        "id": 50,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 23,
+        "luas_bangunan": 43,
+        "harga": 506000000
+    },
+    {
+        "id": 51,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 76,
+        "luas_bangunan": 90,
+        "harga": 2089999999
+    },
+    {
+        "id": 52,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 168,
+        "harga": 3000000000
+    },
+    {
+        "id": 53,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 45,
+        "harga": 655000000
+    },
+    {
+        "id": 54,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 38,
+        "luas_bangunan": 100,
+        "harga": 1150000000
+    },
+    {
+        "id": 55,
+        "kamar_tidur": 5,
+        "kamar_mandi": 1,
+        "car_port": 3,
+        "luas_tanah": 265,
+        "luas_bangunan": 318,
+        "harga": 6000000000
+    },
+    {
+        "id": 56,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 73,
+        "luas_bangunan": 318,
+        "harga": 1750000000
+    },
+    {
+        "id": 57,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 140,
+        "luas_bangunan": 338,
+        "harga": 4600000000
+    },
+    {
+        "id": 58,
+        "kamar_tidur": 4,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 150,
+        "harga": 1100000000
+    },
+    {
+        "id": 59,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 162,
+        "luas_bangunan": 144,
+        "harga": 2570000000
+    },
+    {
+        "id": 60,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 61,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 120,
+        "harga": 2040000000
+    },
+    {
+        "id": 62,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 63,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 64,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 39,
+        "harga": 930000000
+    },
+    {
+        "id": 65,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 45,
+        "harga": 900000000
+    },
+    {
+        "id": 66,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 104,
+        "harga": 1500000000
+    },
+    {
+        "id": 67,
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 81,
+        "harga": 900000000
+    },
+    {
+        "id": 68,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 110,
+        "luas_bangunan": 140,
+        "harga": 2640000000
+    },
+    {
+        "id": 69,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 154,
+        "luas_bangunan": 120,
+        "harga": 1580000000
+    },
+    {
+        "id": 70,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 90,
+        "harga": 1200000000
+    },
+    {
+        "id": 71,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 72,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1150000000
+    },
+    {
+        "id": 73,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 74,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 88,
+        "harga": 1500000000
+    },
+    {
+        "id": 75,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 194,
+        "luas_bangunan": 120,
+        "harga": 4200000000
+    },
+    {
+        "id": 76,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 211,
+        "luas_bangunan": 90,
+        "harga": 1900000000
+    },
+    {
+        "id": 77,
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 284,
+        "harga": 2650000000
+    },
+    {
+        "id": 78,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 150,
+        "harga": 1440000000
+    },
+    {
+        "id": 79,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 36,
+        "harga": 376000000
+    },
+    {
+        "id": 80,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 58,
+        "harga": 515000000
+    },
+    {
+        "id": 81,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 100,
+        "harga": 825000000
+    },
+    {
+        "id": 82,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 280,
+        "harga": 6500000000
+    },
+    {
+        "id": 83,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 210,
+        "luas_bangunan": 253,
+        "harga": 4800000000
+    },
+    {
+        "id": 84,
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 344,
+        "luas_bangunan": 490,
+        "harga": 5400000000
+    },
+    {
+        "id": 85,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 96,
+        "luas_bangunan": 150,
+        "harga": 2500000000
+    },
+    {
+        "id": 86,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 90,
+        "harga": 1570000000
+    },
+    {
+        "id": 87,
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 43,
+        "harga": 699000000
+    },
+    {
+        "id": 88,
+        "kamar_tidur": 2,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 98,
+        "luas_bangunan": 78,
+        "harga": 1200000000
+    },
+    {
+        "id": 89,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 180,
+        "harga": 1440000000
+    },
+    {
+        "id": 90,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 1020000000
+    },
+    {
+        "id": 91,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 72,
+        "harga": 535000000
+    },
+    {
+        "id": 92,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 186,
+        "luas_bangunan": 110,
+        "harga": 1680000000
+    },
+    {
+        "id": 93,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 45,
+        "harga": 810000000
+    },
+    {
+        "id": 94,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 198,
+        "luas_bangunan": 150,
+        "harga": 1440000000
+    },
+    {
+        "id": 95,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 180,
+        "harga": 840000000
+    },
+    {
+        "id": 96,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 323,
+        "luas_bangunan": 200,
+        "harga": 3960000000
+    },
+    {
+        "id": 97,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 130,
+        "luas_bangunan": 121,
+        "harga": 2040000000
+    },
+    {
+        "id": 98,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 100,
+        "harga": 1860000000
+    },
+    {
+        "id": 99,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 40,
+        "harga": 1020000000
+    },
+    {
+        "id": 100,
+        "kamar_tidur": 6,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 155,
+        "harga": 1980000000
+    },
+    {
+        "id": 101,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 180,
+        "harga": 1650000000
+    },
+    {
+        "id": 102,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 103,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1400000000
+    },
+    {
+        "id": 104,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 80,
+        "harga": 765000000
+    },
+    {
+        "id": 105,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 90,
+        "harga": 859000000
+    },
+    {
+        "id": 106,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 66,
+        "luas_bangunan": 56,
+        "harga": 695000000
+    },
+    {
+        "id": 107,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 230,
+        "luas_bangunan": 550,
+        "harga": 15000000000
+    },
+    {
+        "id": 108,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 510,
+        "luas_bangunan": 300,
+        "harga": 25000000000
+    },
+    {
+        "id": 109,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 150,
+        "luas_bangunan": 260,
+        "harga": 5500000000
+    },
+    {
+        "id": 110,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 6,
+        "luas_tanah": 416,
+        "luas_bangunan": 550,
+        "harga": 19300000000
+    },
+    {
+        "id": 111,
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 200,
+        "harga": 12500000000
+    },
+    {
+        "id": 112,
+        "kamar_tidur": 8,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 600,
+        "luas_bangunan": 750,
+        "harga": 7500000000
+    },
+    {
+        "id": 113,
+        "kamar_tidur": 6,
+        "kamar_mandi": 6,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 231,
+        "harga": 5350000000
+    },
+    {
+        "id": 114,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 157,
+        "harga": 2100000000
+    },
+    {
+        "id": 115,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 165,
+        "harga": 2950000000
+    },
+    {
+        "id": 116,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 156,
+        "harga": 2550000000
+    },
+    {
+        "id": 117,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 40,
+        "harga": 270000000
+    },
+    {
+        "id": 118,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 230,
+        "luas_bangunan": 310,
+        "harga": 7700000000
+    },
+    {
+        "id": 119,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 3,
+        "luas_tanah": 125,
+        "luas_bangunan": 160,
+        "harga": 2500000000
+    },
+    {
+        "id": 120,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 63,
+        "harga": 1030000000
+    },
+    {
+        "id": 121,
+        "kamar_tidur": 2,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 153,
+        "luas_bangunan": 538,
+        "harga": 6200000000
+    },
+    {
+        "id": 122,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 300,
+        "harga": 2950000000
+    },
+    {
+        "id": 123,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 40,
+        "luas_bangunan": 80,
+        "harga": 899000000
+    },
+    {
+        "id": 124,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 238,
+        "harga": 3490000000
+    },
+    {
+        "id": 125,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 188,
+        "harga": 3500000000
+    },
+    {
+        "id": 126,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 231,
+        "harga": 3490000000
+    },
+    {
+        "id": 127,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 192,
+        "luas_bangunan": 365,
+        "harga": 6500000000
+    },
+    {
+        "id": 128,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 220,
+        "harga": 3500000000
+    },
+    {
+        "id": 129,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 108,
+        "luas_bangunan": 150,
+        "harga": 1650000000
+    },
+    {
+        "id": 130,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 34,
+        "luas_bangunan": 60,
+        "harga": 760000000
+    },
+    {
+        "id": 131,
+        "kamar_tidur": 6,
+        "kamar_mandi": 5,
+        "car_port": 3,
+        "luas_tanah": 657,
+        "luas_bangunan": 780,
+        "harga": 27000000000
+    },
+    {
+        "id": 132,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 156,
+        "luas_bangunan": 780,
+        "harga": 4600000000
+    },
+    {
+        "id": 133,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 115,
+        "luas_bangunan": 780,
+        "harga": 1850000000
+    },
+    {
+        "id": 134,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 232,
+        "luas_bangunan": 550,
+        "harga": 13800000000
+    },
+    {
+        "id": 135,
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 21,
+        "luas_bangunan": 550,
+        "harga": 570000000
+    },
+    {
+        "id": 136,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 53,
+        "luas_bangunan": 60,
+        "harga": 740000000
+    },
+    {
+        "id": 137,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 64,
+        "luas_bangunan": 51,
+        "harga": 870000000
+    },
+    {
+        "id": 138,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 68,
+        "luas_bangunan": 51,
+        "harga": 870000000
+    },
+    {
+        "id": 139,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 93,
+        "luas_bangunan": 70,
+        "harga": 900000000
+    },
+    {
+        "id": 140,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 135,
+        "luas_bangunan": 220,
+        "harga": 2980000000
+    },
+    {
+        "id": 141,
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 4,
+        "luas_tanah": 1467,
+        "luas_bangunan": 1000,
+        "harga": 116000000000
+    },
+    {
+        "id": 142,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 133,
+        "luas_bangunan": 250,
+        "harga": 3300000000
+    },
+    {
+        "id": 143,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 236,
+        "luas_bangunan": 250,
+        "harga": 7000000000
+    },
+    {
+        "id": 144,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 104,
+        "luas_bangunan": 250,
+        "harga": 2300000000
+    },
+    {
+        "id": 145,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 51,
+        "harga": 840000000
+    },
+    {
+        "id": 146,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 51,
+        "harga": 850000000
+    },
+    {
+        "id": 147,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 897000000
+    },
+    {
+        "id": 148,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 46,
+        "luas_bangunan": 70,
+        "harga": 1500000000
+    },
+    {
+        "id": 149,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 47,
+        "luas_bangunan": 68,
+        "harga": 970000000
+    },
+    {
+        "id": 150,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 290,
+        "luas_bangunan": 315,
+        "harga": 10900000000
+    },
+    {
+        "id": 151,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 196,
+        "luas_bangunan": 315,
+        "harga": 2700000000
+    },
+    {
+        "id": 152,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 61,
+        "luas_bangunan": 51,
+        "harga": 819000000
+    },
+    {
+        "id": 153,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 890000000
+    },
+    {
+        "id": 154,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 59,
+        "luas_bangunan": 51,
+        "harga": 837000000
+    },
+    {
+        "id": 155,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 45,
+        "harga": 810000000
+    },
+    {
+        "id": 156,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 323,
+        "luas_bangunan": 400,
+        "harga": 19500000000
+    },
+    {
+        "id": 157,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 45,
+        "harga": 810000000
+    },
+    {
+        "id": 158,
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 98,
+        "luas_bangunan": 68,
+        "harga": 780000000
+    },
+    {
+        "id": 159,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 60,
+        "harga": 899000000
+    },
+    {
+        "id": 160,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 116,
+        "luas_bangunan": 85,
+        "harga": 780000000
+    },
+    {
+        "id": 161,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 135,
+        "luas_bangunan": 270,
+        "harga": 2160000000
+    },
+    {
+        "id": 162,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 203,
+        "harga": 4080000000
+    },
+    {
+        "id": 163,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 660000000
+    },
+    {
+        "id": 164,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 36,
+        "harga": 395000000
+    },
+    {
+        "id": 165,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 150,
+        "luas_bangunan": 209,
+        "harga": 5000000000
+    },
+    {
+        "id": 166,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 150,
+        "harga": 3600000000
+    },
+    {
+        "id": 167,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 104,
+        "harga": 1500000000
+    },
+    {
+        "id": 168,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 109,
+        "luas_bangunan": 90,
+        "harga": 1560000000
+    },
+    {
+        "id": 169,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 104,
+        "luas_bangunan": 60,
+        "harga": 1080000000
+    },
+    {
+        "id": 170,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 171,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1150000000
+    },
+    {
+        "id": 172,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 173,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 194,
+        "luas_bangunan": 120,
+        "harga": 4200000000
+    },
+    {
+        "id": 174,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 72,
+        "harga": 535000000
+    },
+    {
+        "id": 175,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 79,
+        "harga": 1650000000
+    },
+    {
+        "id": 176,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 180,
+        "harga": 4350000000
+    },
+    {
+        "id": 177,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 186,
+        "luas_bangunan": 110,
+        "harga": 1680000000
+    },
+    {
+        "id": 178,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 280,
+        "harga": 7200000000
+    },
+    {
+        "id": 179,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 94,
+        "luas_bangunan": 280,
+        "harga": 1610000000
+    },
+    {
+        "id": 180,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 108,
+        "luas_bangunan": 195,
+        "harga": 4440000000
+    },
+    {
+        "id": 181,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 124,
+        "luas_bangunan": 138,
+        "harga": 3190000000
+    },
+    {
+        "id": 182,
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 205,
+        "luas_bangunan": 241,
+        "harga": 6760000000
+    },
+    {
+        "id": 183,
+        "kamar_tidur": 6,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 320,
+        "luas_bangunan": 390,
+        "harga": 12400000000
+    },
+    {
+        "id": 184,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 61,
+        "luas_bangunan": 78,
+        "harga": 875000000
+    },
+    {
+        "id": 185,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 78,
+        "luas_bangunan": 45,
+        "harga": 650000000
+    },
+    {
+        "id": 186,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 75,
+        "luas_bangunan": 60,
+        "harga": 800000000
+    },
+    {
+        "id": 187,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 540,
+        "luas_bangunan": 500,
+        "harga": 13500000000
+    },
+    {
+        "id": 188,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 95,
+        "luas_bangunan": 88,
+        "harga": 796000000
+    },
+    {
+        "id": 189,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 40,
+        "harga": 670000000
+    },
+    {
+        "id": 190,
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 47,
+        "luas_bangunan": 40,
+        "harga": 1250000000
+    },
+    {
+        "id": 191,
+        "kamar_tidur": 6,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 400,
+        "luas_bangunan": 800,
+        "harga": 11500000000
+    },
+    {
+        "id": 192,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 380,
+        "harga": 7200000000
+    },
+    {
+        "id": 193,
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 1050,
+        "luas_bangunan": 364,
+        "harga": 12500000000
+    },
+    {
+        "id": 194,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 8870,
+        "luas_bangunan": 700,
+        "harga": 167000000000
+    },
+    {
+        "id": 195,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 157,
+        "luas_bangunan": 270,
+        "harga": 2800000000
+    },
+    {
+        "id": 196,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 105,
+        "harga": 699000000
+    },
+    {
+        "id": 197,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 68,
+        "luas_bangunan": 36,
+        "harga": 500000000
+    },
+    {
+        "id": 198,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 90,
+        "harga": 1380000000
+    },
+    {
+        "id": 199,
+        "kamar_tidur": 5,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 104,
+        "luas_bangunan": 180,
+        "harga": 1500000000
+    },
+    {
+        "id": 200,
+        "kamar_tidur": 5,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 83,
+        "luas_bangunan": 154,
+        "harga": 1050000000
+    },
+    {
+        "id": 201,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 124,
+        "luas_bangunan": 240,
+        "harga": 1560000000
+    },
+    {
+        "id": 202,
+        "kamar_tidur": 6,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 210,
+        "luas_bangunan": 300,
+        "harga": 4200000000
+    },
+    {
+        "id": 203,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 84,
+        "harga": 1080000000
+    },
+    {
+        "id": 204,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 87,
+        "harga": 950000000
+    },
+    {
+        "id": 205,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 82,
+        "luas_bangunan": 50,
+        "harga": 660000000
+    },
+    {
+        "id": 206,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 74,
+        "harga": 1060000000
+    },
+    {
+        "id": 207,
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 117,
+        "luas_bangunan": 177,
+        "harga": 2600000000
+    },
+    {
+        "id": 208,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 30,
+        "harga": 499000000
+    },
+    {
+        "id": 209,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 127,
+        "harga": 2500000000
+    },
+    {
+        "id": 210,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 450,
+        "luas_bangunan": 700,
+        "harga": 12700000000
+    },
+    {
+        "id": 211,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 140,
+        "harga": 1560000000
+    },
+    {
+        "id": 212,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 185,
+        "luas_bangunan": 181,
+        "harga": 2900000000
+    },
+    {
+        "id": 213,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 94,
+        "luas_bangunan": 70,
+        "harga": 1090000000
+    },
+    {
+        "id": 214,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 40,
+        "harga": 1020000000
+    },
+    {
+        "id": 215,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 110,
+        "harga": 1440000000
+    },
+    {
+        "id": 216,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 98,
+        "harga": 1290000000
+    },
+    {
+        "id": 217,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 100,
+        "harga": 1860000000
+    },
+    {
+        "id": 218,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 219,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 76,
+        "luas_bangunan": 67,
+        "harga": 1680000000
+    },
+    {
+        "id": 220,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 39,
+        "harga": 930000000
+    },
+    {
+        "id": 221,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 139,
+        "luas_bangunan": 211,
+        "harga": 3420000000
+    },
+    {
+        "id": 222,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 54,
+        "harga": 1320000000
+    },
+    {
+        "id": 223,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 52,
+        "harga": 1090000000
+    },
+    {
+        "id": 224,
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 126,
+        "harga": 1620000000
+    },
+    {
+        "id": 225,
+        "kamar_tidur": 6,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 445,
+        "luas_bangunan": 432,
+        "harga": 5490000000
+    },
+    {
+        "id": 226,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 277,
+        "harga": 6660000000
+    },
+    {
+        "id": 227,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 55,
+        "harga": 780000000
+    },
+    {
+        "id": 228,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 140,
+        "harga": 1020000000
+    },
+    {
+        "id": 229,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 60,
+        "luas_bangunan": 75,
+        "harga": 880000000
+    },
+    {
+        "id": 230,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 84,
+        "luas_bangunan": 65,
+        "harga": 759000000
+    },
+    {
+        "id": 231,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 150,
+        "harga": 2400000000
+    },
+    {
+        "id": 232,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 115,
+        "harga": 1600000000
+    },
+    {
+        "id": 233,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 234,
+        "kamar_tidur": 6,
+        "kamar_mandi": 5,
+        "car_port": 3,
+        "luas_tanah": 924,
+        "luas_bangunan": 540,
+        "harga": 7990000000
+    },
+    {
+        "id": 235,
+        "kamar_tidur": 7,
+        "kamar_mandi": 7,
+        "car_port": 6,
+        "luas_tanah": 620,
+        "luas_bangunan": 1500,
+        "harga": 35000000000
+    },
+    {
+        "id": 236,
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 6,
+        "luas_tanah": 732,
+        "luas_bangunan": 184,
+        "harga": 2000000000
+    },
+    {
+        "id": 237,
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 6,
+        "luas_tanah": 102,
+        "luas_bangunan": 140,
+        "harga": 2200000000
+    },
+    {
+        "id": 238,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 80,
+        "harga": 1750000000
+    },
+    {
+        "id": 239,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 161,
+        "luas_bangunan": 101,
+        "harga": 1660000000
+    },
+    {
+        "id": 240,
+        "kamar_tidur": 6,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 1075,
+        "luas_bangunan": 300,
+        "harga": 3000000000
+    },
+    {
+        "id": 241,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 140,
+        "luas_bangunan": 120,
+        "harga": 1500000000
+    },
+    {
+        "id": 242,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 138,
+        "luas_bangunan": 170,
+        "harga": 1250000000
+    },
+    {
+        "id": 243,
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 22,
+        "luas_bangunan": 170,
+        "harga": 450000000
+    },
+    {
+        "id": 244,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 977,
+        "luas_bangunan": 600,
+        "harga": 11000000000
+    },
+    {
+        "id": 245,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 95,
+        "luas_bangunan": 70,
+        "harga": 695000000
+    },
+    {
+        "id": 246,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 100,
+        "luas_bangunan": 45,
+        "harga": 450000000
+    },
+    {
+        "id": 247,
+        "kamar_tidur": 5,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 300,
+        "luas_bangunan": 250,
+        "harga": 1700000000
+    },
+    {
+        "id": 248,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 163,
+        "luas_bangunan": 70,
+        "harga": 790000000
+    },
+    {
+        "id": 249,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 55,
+        "luas_bangunan": 27,
+        "harga": 399000000
+    },
+    {
+        "id": 250,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 148,
+        "luas_bangunan": 27,
+        "harga": 7800000000
+    },
+    {
+        "id": 251,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 232,
+        "luas_bangunan": 150,
+        "harga": 2990000000
+    },
+    {
+        "id": 252,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 112,
+        "luas_bangunan": 56,
+        "harga": 780000000
+    },
+    {
+        "id": 253,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 130,
+        "luas_bangunan": 43,
+        "harga": 1200000000
+    },
+    {
+        "id": 254,
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 345,
+        "luas_bangunan": 600,
+        "harga": 17800000000
+    },
+    {
+        "id": 255,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 97,
+        "luas_bangunan": 130,
+        "harga": 1450000000
+    },
+    {
+        "id": 256,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 53,
+        "harga": 1300000000
+    },
+    {
+        "id": 257,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 83,
+        "luas_bangunan": 110,
+        "harga": 950000000
+    },
+    {
+        "id": 258,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 120,
+        "harga": 2600000000
+    },
+    {
+        "id": 259,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 300,
+        "harga": 7000000000
+    },
+    {
+        "id": 260,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1650000000
+    },
+    {
+        "id": 261,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 104,
+        "luas_bangunan": 60,
+        "harga": 1080000000
+    },
+    {
+        "id": 262,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 200,
+        "harga": 2280000000
+    },
+    {
+        "id": 263,
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 250,
+        "luas_bangunan": 330,
+        "harga": 9000000000
+    },
+    {
+        "id": 264,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 265,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 60,
+        "harga": 960000000
+    },
+    {
+        "id": 266,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 186,
+        "luas_bangunan": 110,
+        "harga": 1680000000
+    },
+    {
+        "id": 267,
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 313,
+        "luas_bangunan": 500,
+        "harga": 11000000000
+    },
+    {
+        "id": 268,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 200,
+        "harga": 6600000000
+    },
+    {
+        "id": 269,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 45,
+        "luas_bangunan": 50,
+        "harga": 1320000000
+    },
+    {
+        "id": 270,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 343,
+        "luas_bangunan": 520,
+        "harga": 14500000000
+    },
+    {
+        "id": 271,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 135,
+        "luas_bangunan": 220,
+        "harga": 2980000000
+    },
+    {
+        "id": 272,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 61,
+        "luas_bangunan": 77,
+        "harga": 985000000
+    },
+    {
+        "id": 273,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 153,
+        "luas_bangunan": 77,
+        "harga": 4000000000
+    },
+    {
+        "id": 274,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 385,
+        "luas_bangunan": 77,
+        "harga": 22500000000
+    },
+    {
+        "id": 275,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 155,
+        "harga": 4269999999
+    },
+    {
+        "id": 276,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 65,
+        "luas_bangunan": 31,
+        "harga": 499000000
+    },
+    {
+        "id": 277,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 250,
+        "harga": 5600000000
+    },
+    {
+        "id": 278,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 100,
+        "luas_bangunan": 140,
+        "harga": 1300000000
+    },
+    {
+        "id": 279,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 140,
+        "luas_bangunan": 160,
+        "harga": 2400000000
+    },
+    {
+        "id": 280,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 150,
+        "harga": 2350000000
+    },
+    {
+        "id": 281,
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 455,
+        "luas_bangunan": 350,
+        "harga": 2750000000
+    },
+    {
+        "id": 282,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 52,
+        "luas_bangunan": 44,
+        "harga": 540000000
+    },
+    {
+        "id": 283,
+        "kamar_tidur": 6,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 1562,
+        "luas_bangunan": 620,
+        "harga": 27500000000
+    },
+    {
+        "id": 284,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 120,
+        "harga": 1600000000
+    },
+    {
+        "id": 285,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 126,
+        "luas_bangunan": 146,
+        "harga": 3200000000
+    },
+    {
+        "id": 286,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 148,
+        "luas_bangunan": 156,
+        "harga": 2300000000
+    },
+    {
+        "id": 287,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 56,
+        "luas_bangunan": 43,
+        "harga": 555000000
+    },
+    {
+        "id": 288,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 97,
+        "luas_bangunan": 70,
+        "harga": 799000000
+    },
+    {
+        "id": 289,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 110,
+        "harga": 1440000000
+    },
+    {
+        "id": 290,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 76,
+        "harga": 1140000000
+    },
+    {
+        "id": 291,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 180,
+        "harga": 1440000000
+    },
+    {
+        "id": 292,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 95,
+        "luas_bangunan": 105,
+        "harga": 1800000000
+    },
+    {
+        "id": 293,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 98,
+        "harga": 1290000000
+    },
+    {
+        "id": 294,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 143,
+        "luas_bangunan": 170,
+        "harga": 1800000000
+    },
+    {
+        "id": 295,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 80,
+        "harga": 1200000000
+    },
+    {
+        "id": 296,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 95,
+        "harga": 1260000000
+    },
+    {
+        "id": 297,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 45,
+        "harga": 810000000
+    },
+    {
+        "id": 298,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 126,
+        "harga": 1590000000
+    },
+    {
+        "id": 299,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 130,
+        "luas_bangunan": 72,
+        "harga": 780000000
+    },
+    {
+        "id": 300,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 106,
+        "luas_bangunan": 150,
+        "harga": 1800000000
+    },
+    {
+        "id": 301,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 90,
+        "harga": 870000000
+    },
+    {
+        "id": 302,
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 103,
+        "luas_bangunan": 90,
+        "harga": 960000000
+    },
+    {
+        "id": 303,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 45,
+        "harga": 810000000
+    },
+    {
+        "id": 304,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 55,
+        "harga": 1440000000
+    },
+    {
+        "id": 305,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 97,
+        "luas_bangunan": 120,
+        "harga": 2340000000
+    },
+    {
+        "id": 306,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 100,
+        "harga": 1860000000
+    },
+    {
+        "id": 307,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 162,
+        "luas_bangunan": 222,
+        "harga": 2640000000
+    },
+    {
+        "id": 308,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 203,
+        "harga": 4080000000
+    },
+    {
+        "id": 309,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 144,
+        "harga": 3120000000
+    },
+    {
+        "id": 310,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 130,
+        "harga": 2220000000
+    },
+    {
+        "id": 311,
+        "kamar_tidur": 8,
+        "kamar_mandi": 7,
+        "car_port": 20,
+        "luas_tanah": 4800,
+        "luas_bangunan": 3000,
+        "harga": 70000000000
+    },
+    {
+        "id": 312,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 20,
+        "luas_tanah": 180,
+        "luas_bangunan": 115,
+        "harga": 2520000000
+    },
+    {
+        "id": 313,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 20,
+        "luas_tanah": 19,
+        "luas_bangunan": 37,
+        "harga": 443000000
+    },
+    {
+        "id": 314,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 20,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 1020000000
+    },
+    {
+        "id": 315,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 35,
+        "luas_bangunan": 69,
+        "harga": 1080000000
+    },
+    {
+        "id": 316,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 150,
+        "harga": 1380000000
+    },
+    {
+        "id": 317,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 113,
+        "luas_bangunan": 150,
+        "harga": 2040000000
+    },
+    {
+        "id": 318,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 90,
+        "harga": 1200000000
+    },
+    {
+        "id": 319,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 104,
+        "harga": 1500000000
+    },
+    {
+        "id": 320,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 214,
+        "luas_bangunan": 350,
+        "harga": 4600000000
+    },
+    {
+        "id": 321,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 110,
+        "luas_bangunan": 100,
+        "harga": 1550000000
+    },
+    {
+        "id": 322,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 219,
+        "luas_bangunan": 200,
+        "harga": 4300000000
+    },
+    {
+        "id": 323,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 250,
+        "luas_bangunan": 195,
+        "harga": 4680000000
+    },
+    {
+        "id": 324,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 136,
+        "luas_bangunan": 183,
+        "harga": 4320000000
+    },
+    {
+        "id": 325,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 180,
+        "harga": 1650000000
+    },
+    {
+        "id": 326,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 95,
+        "harga": 1040000000
+    },
+    {
+        "id": 327,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 275,
+        "harga": 4500000000
+    },
+    {
+        "id": 328,
+        "kamar_tidur": 10,
+        "kamar_mandi": 10,
+        "car_port": 6,
+        "luas_tanah": 710,
+        "luas_bangunan": 600,
+        "harga": 10500000000
+    },
+    {
+        "id": 329,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 6,
+        "luas_tanah": 72,
+        "luas_bangunan": 36,
+        "harga": 680000000
+    },
+    {
+        "id": 330,
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 6,
+        "luas_tanah": 81,
+        "luas_bangunan": 81,
+        "harga": 900000000
+    },
+    {
+        "id": 331,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 6,
+        "luas_tanah": 90,
+        "luas_bangunan": 65,
+        "harga": 1020000000
+    },
+    {
+        "id": 332,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 6,
+        "luas_tanah": 110,
+        "luas_bangunan": 140,
+        "harga": 2640000000
+    },
+    {
+        "id": 333,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1400000000
+    },
+    {
+        "id": 334,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 6,
+        "luas_tanah": 200,
+        "luas_bangunan": 185,
+        "harga": 3500000000
+    },
+    {
+        "id": 335,
+        "kamar_tidur": 6,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 91,
+        "luas_bangunan": 170,
+        "harga": 1320000000
+    },
+    {
+        "id": 336,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 6,
+        "luas_tanah": 70,
+        "luas_bangunan": 36,
+        "harga": 530000000
+    },
+    {
+        "id": 337,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 6,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 338,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 104,
+        "luas_bangunan": 60,
+        "harga": 1080000000
+    },
+    {
+        "id": 339,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 340,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 341,
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 167,
+        "luas_bangunan": 300,
+        "harga": 4500000000
+    },
+    {
+        "id": 342,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 144,
+        "harga": 960000000
+    },
+    {
+        "id": 343,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 55,
+        "luas_bangunan": 27,
+        "harga": 450000000
+    },
+    {
+        "id": 344,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 116,
+        "harga": 1450000000
+    },
+    {
+        "id": 345,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 83,
+        "luas_bangunan": 45,
+        "harga": 499000000
+    },
+    {
+        "id": 346,
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 100,
+        "harga": 1440000000
+    },
+    {
+        "id": 347,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 70,
+        "harga": 580000000
+    },
+    {
+        "id": 348,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 76,
+        "luas_bangunan": 67,
+        "harga": 1680000000
+    },
+    {
+        "id": 349,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 153,
+        "luas_bangunan": 200,
+        "harga": 1550000000
+    },
+    {
+        "id": 350,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 39,
+        "harga": 930000000
+    },
+    {
+        "id": 351,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 52,
+        "harga": 1070000000
+    },
+    {
+        "id": 352,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 230,
+        "luas_bangunan": 300,
+        "harga": 8500000000
+    },
+    {
+        "id": 353,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 90,
+        "harga": 1080000000
+    },
+    {
+        "id": 354,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 123,
+        "luas_bangunan": 105,
+        "harga": 1680000000
+    },
+    {
+        "id": 355,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 356,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 81,
+        "luas_bangunan": 45,
+        "harga": 899000000
+    },
+    {
+        "id": 357,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 109,
+        "luas_bangunan": 90,
+        "harga": 1560000000
+    },
+    {
+        "id": 358,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 193,
+        "luas_bangunan": 320,
+        "harga": 5900000000
+    },
+    {
+        "id": 359,
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 792,
+        "luas_bangunan": 1100,
+        "harga": 14200000000
+    },
+    {
+        "id": 360,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 150,
+        "luas_bangunan": 90,
+        "harga": 900000000
+    },
+    {
+        "id": 361,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 323,
+        "luas_bangunan": 500,
+        "harga": 3500000000
+    },
+    {
+        "id": 362,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 300,
+        "harga": 5600000000
+    },
+    {
+        "id": 363,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 139,
+        "luas_bangunan": 60,
+        "harga": 665000000
+    },
+    {
+        "id": 364,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 160,
+        "harga": 2150000000
+    },
+    {
+        "id": 365,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 74,
+        "luas_bangunan": 72,
+        "harga": 690000000
+    },
+    {
+        "id": 366,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 260,
+        "luas_bangunan": 700,
+        "harga": 21500000000
+    },
+    {
+        "id": 367,
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 600,
+        "luas_bangunan": 400,
+        "harga": 16500000000
+    },
+    {
+        "id": 368,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 211,
+        "luas_bangunan": 337,
+        "harga": 8000000000
+    },
+    {
+        "id": 369,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 130,
+        "harga": 2220000000
+    },
+    {
+        "id": 370,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 104,
+        "harga": 1500000000
+    },
+    {
+        "id": 371,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 90,
+        "harga": 1200000000
+    },
+    {
+        "id": 372,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 150,
+        "harga": 1380000000
+    },
+    {
+        "id": 373,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 115,
+        "harga": 2520000000
+    },
+    {
+        "id": 374,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 30,
+        "harga": 499000000
+    },
+    {
+        "id": 375,
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 275,
+        "luas_bangunan": 320,
+        "harga": 6000000000
+    },
+    {
+        "id": 376,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 60,
+        "harga": 2160000000
+    },
+    {
+        "id": 377,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 180,
+        "harga": 1440000000
+    },
+    {
+        "id": 378,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 180,
+        "harga": 840000000
+    },
+    {
+        "id": 379,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 130,
+        "luas_bangunan": 121,
+        "harga": 2040000000
+    },
+    {
+        "id": 380,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 55,
+        "harga": 930000000
+    },
+    {
+        "id": 381,
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 200,
+        "harga": 780000000
+    },
+    {
+        "id": 382,
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 135,
+        "luas_bangunan": 270,
+        "harga": 2160000000
+    },
+    {
+        "id": 383,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 660000000
+    },
+    {
+        "id": 384,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 205,
+        "luas_bangunan": 54,
+        "harga": 6500000000
+    },
+    {
+        "id": 385,
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 140,
+        "harga": 2200000000
+    },
+    {
+        "id": 386,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 110,
+        "harga": 1150000000
+    },
+    {
+        "id": 387,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 50,
+        "harga": 590000000
+    },
+    {
+        "id": 388,
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 75,
+        "luas_bangunan": 50,
+        "harga": 690000000
+    },
+    {
+        "id": 389,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 70,
+        "luas_bangunan": 110,
+        "harga": 1150000000
+    },
+    {
+        "id": 390,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 681,
+        "luas_bangunan": 500,
+        "harga": 27000000000
+    },
+    {
+        "id": 391,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 70,
+        "luas_bangunan": 158,
+        "harga": 2400000000
+    },
+    {
+        "id": 392,
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 119,
+        "harga": 2950000000
+    },
+    {
+        "id": 393,
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 594,
+        "luas_bangunan": 150,
+        "harga": 1800000000
+    }
+]
