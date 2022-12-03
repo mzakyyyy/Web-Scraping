@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from models import models
 from config.database import engine, SessionLocal
+import uvicorn
 
 from routers import properties, users, authentication
 
@@ -19,7 +20,8 @@ def get_db():
     finally:
         db.close()
 
-
+if __name__ == '__main__':
+    uvicorn.run("main:app", host="0.0.0.0", port=8080, reload=True)
 
 
 

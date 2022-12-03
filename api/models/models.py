@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String
 from config.database import Base
 
+
 class Property(Base):
     __tablename__ = 'properties'
     id = Column(Integer, primary_key=True, index=True)
@@ -10,6 +11,7 @@ class Property(Base):
     luas_tanah = Column(Integer)
     luas_bangunan = Column(Integer)
     harga = Column(Integer)
+
 
 class User(Base):
     __tablename__ = 'users'
