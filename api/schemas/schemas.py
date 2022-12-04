@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr
 from typing import Optional
 
 
@@ -9,11 +9,22 @@ class Property(BaseModel):
     luas_tanah: int
     luas_bangunan: int
     harga: int
+    class Config :
+        schema_extra = {
+            "example": {
+                "kamar_tidur": 8,
+                "kamar_mandi": 4,
+                "car_port": 2,
+                "luas_tanah": 145,
+                "luas_bangunan": 120,
+                "harga": 270000000
+            }
+        }
 
 
 class User(BaseModel):
     name: str
-    email: str
+    email: EmailStr
     password: str
 
 

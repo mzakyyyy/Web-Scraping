@@ -12,6 +12,10 @@ router = APIRouter(
 get_db = database.get_db
 
 
-@router.post('/user', response_model=schemas.ShowUser)
+@router.post('/user')
 def create_user(request: schemas.User, db: Session = Depends(get_db)):
     return users.create(request, db)
+
+@router.get('/user')
+def show_user(db: Session = Depends(get_db)):
+    return users.retrieve_user(db)

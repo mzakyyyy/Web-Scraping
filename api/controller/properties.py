@@ -3,12 +3,17 @@ from models import models
 from schemas import schemas
 from sqlalchemy import and_
 from fastapi import status, HTTPException
+import requests
 
 
-def get_all(min_kamar_tidur: int, min_kamar_mandi: int, min_car_port: int, db: Session):
+def get_all(min_kamar_tidur: int, min_kamar_mandi: int, min_car_port: int, luas_tanah: int, luas_bangunan: int, minimal_harga: int, maksimal_harga: int, db: Session):
     properties = db.query(models.Property).filter(and_(models.Property.kamar_tidur >= min_kamar_tidur,
                                                        models.Property.kamar_mandi >= min_kamar_mandi,
-                                                       models.Property.car_port >= min_car_port)).all()
+                                                       models.Property.car_port >= min_car_port,
+                                                       models.Property.luas_tanah >= luas_tanah,
+                                                       models.Property.luas_bangunan >= luas_bangunan,
+                                                       models.Property.harga >= minimal_harga,
+                                                       models.Property.harga <= maksimal_harga)).all()
     if not properties:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
                             detail=f"Tidak ada properti yang memenuhi spesifikasi")
@@ -103,3 +108,20 @@ def kpr_properties(jangka_waktu: int, max_cicilan_awal: int, max_cicilan_akhir: 
         else:
             pass
     return list_properties
+
+
+def get_from_test():
+    url = 'https://apizaky.azurewebsites.net/login?'
+    data = {"username":"jaki1", "password":"jaki"}
+    response = requests.post(url, data=data)
+    jsonresponse = response.json()
+    bearertoken = str(jsonresponse['access_token'])
+    return bearertoken
+
+def get_root():
+    bearertoken = get_from_test()
+    url = 'https://apizaky.azurewebsites.net/'
+    headers = {"Authorization": f"Bearer {bearertoken}"}
+    response = requests.get(url, headers=headers)
+    jsonresponse = response.json()
+    return jsonresponse
