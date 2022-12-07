@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  api:
-    image: api
+  server:
+    image: server
     build:
       context: .
       dockerfile: ./Dockerfile

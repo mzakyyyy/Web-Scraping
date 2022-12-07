@@ -34,12 +34,12 @@ def delete_property(id: int, db: Session = Depends(get_db), get_current_user: sc
 
 
 @router.get('/property/{id}', tags=["Property"])
-def get_by_id(id: int, db: Session = Depends(get_db)):
+def get_by_id(id: int, db: Session = Depends(get_db), get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     return properties.get_id(id, db)
 
 
 @router.get('/kpr/property/{id}', tags=["KPR Calculator"])
-def kpr_property_calculator(id: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kredit_fix: int, suku_bunga_floating: float, db: Session = Depends(get_db)):
+def kpr_property_calculator(id: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kredit_fix: int, suku_bunga_floating: float, db: Session = Depends(get_db), get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     prop = db.query(models.Property).filter(
         models.Property.id == id).first()
     if not prop:
@@ -56,7 +56,7 @@ def kpr_property_calculator(id: int, jangka_waktu: int, suku_bunga_fixed: float,
 
 
 @router.get('/kpr', tags=["KPR Calculator"])
-def kpr_calculator(harga: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kredit_fix: int, suku_bunga_floating: float):
+def kpr_calculator(harga: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kredit_fix: int, suku_bunga_floating: float, get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     cicilan = properties.calculator(
         harga, jangka_waktu, suku_bunga_fixed, masa_kredit_fix, suku_bunga_floating)
     for i in range(len(cicilan)):
@@ -65,7 +65,7 @@ def kpr_calculator(harga: int, jangka_waktu: int, suku_bunga_fixed: float, masa_
 
 
 @router.get('/kpr/property/{id}/bank/{bank}', tags=["KPR Calculator with Bank Policy"])
-def kpr_property_bank_calculator(id: int, bank: properties.BankName, jangka_waktu: int, suku_bunga_floating: float, db: Session = Depends(get_db)):
+def kpr_property_bank_calculator(id: int, bank: properties.BankName, jangka_waktu: int, suku_bunga_floating: float, db: Session = Depends(get_db), get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     prop = db.query(models.Property).filter(
         models.Property.id == id).first()
     if not prop:
@@ -76,17 +76,17 @@ def kpr_property_bank_calculator(id: int, bank: properties.BankName, jangka_wakt
 
 
 @router.get('/kpr/bank/{bank}', tags=["KPR Calculator with Bank Policy"])
-def kpr_bank_calculator(harga: int, bank: properties.BankName, jangka_waktu: int, suku_bunga_floating: int):
+def kpr_bank_calculator(harga: int, bank: properties.BankName, jangka_waktu: int, suku_bunga_floating: float, get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     return properties.cicilan_calculator_bank(harga, bank, jangka_waktu, suku_bunga_floating)
 
 
 @router.get('/get-properties-kpr', tags=["Other"])
-def get_properties_by_kpr(jangka_waktu: int, max_cicilan_awal: int, max_cicilan_akhir: int, db: Session = Depends(get_db)):
+def get_properties_by_kpr(jangka_waktu: int, max_cicilan_awal: int, max_cicilan_akhir: int, db: Session = Depends(get_db), get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     return properties.kpr_properties(jangka_waktu, max_cicilan_awal, max_cicilan_akhir, db)
 
 
 @router.get('/predict', tags=["Prediction"])
-def get_prediction(kota: str, kamar_tidur: int, kamar_mandi: int, car_port: int, luas_tanah: int, luas_bangunan: int):
+def get_prediction(kota: str, kamar_tidur: int, kamar_mandi: int, car_port: int, luas_tanah: int, luas_bangunan: int, get_current_user: schemas.User = Depends(OAuth2.get_current_user)):
     try:
         results = properties.get_estimated_car_price(
             kota, kamar_tidur, kamar_mandi, car_port, luas_tanah, luas_bangunan)

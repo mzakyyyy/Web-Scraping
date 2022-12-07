@@ -16,11 +16,11 @@ class BankName(str, Enum):
     btn = "BTN"
 
 global model
-with open('D:\Data Zaky\Semester 5\Tugas Besar\Web Scraping\server\models\house_price_prediction.pickle', 'rb') as f:
+with open('./controller/house_price_prediction.pickle', 'rb') as f:
     model = pickle.load(f)
 
 global data_columns
-with open('D:\Data Zaky\Semester 5\Tugas Besar\Web Scraping\server\models\house_columns.json', 'r') as f:
+with open('./controller/house_columns.json', 'r') as f:
     data_columns = json.load(f)['data_columns']
     kota = data_columns[5:]
 
@@ -105,7 +105,7 @@ def calculator(harga: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kred
     return cicilan
 
 
-def cicilan_calculator_bank(harga: int, bank: BankName, jangka_waktu: int, suku_bunga_floating: int):
+def cicilan_calculator_bank(harga: int, bank: BankName, jangka_waktu: int, suku_bunga_floating: float):
     cicilan = []
     if bank is BankName.bca:
         suku_bunga_fixed = 9
