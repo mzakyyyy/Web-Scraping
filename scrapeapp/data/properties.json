@@ -1,0 +1,3962 @@
+[
+    {
+        "id": 1,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 87,
+        "harga": 950000000
+    },
+    {
+        "id": 2,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 68,
+        "luas_bangunan": 36,
+        "harga": 500000000
+    },
+    {
+        "id": 3,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 40,
+        "harga": 630000000
+    },
+    {
+        "id": 4,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 100,
+        "harga": 1860000000
+    },
+    {
+        "id": 5,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 250,
+        "luas_bangunan": 195,
+        "harga": 4680000000
+    },
+    {
+        "id": 6,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 65,
+        "harga": 960000000
+    },
+    {
+        "id": 7,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 100,
+        "harga": 1440000000
+    },
+    {
+        "id": 8,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 153,
+        "luas_bangunan": 200,
+        "harga": 1550000000
+    },
+    {
+        "id": 9,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 81,
+        "harga": 900000000
+    },
+    {
+        "id": 10,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 110,
+        "luas_bangunan": 140,
+        "harga": 2640000000
+    },
+    {
+        "id": 11,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 67,
+        "luas_bangunan": 77,
+        "harga": 1350000000
+    },
+    {
+        "id": 12,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 44,
+        "luas_bangunan": 68,
+        "harga": 1000000000
+    },
+    {
+        "id": 13,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 36,
+        "luas_bangunan": 71,
+        "harga": 1140000000
+    },
+    {
+        "id": 14,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 19,
+        "luas_bangunan": 36,
+        "harga": 431000000
+    },
+    {
+        "id": 15,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 6,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 785,
+        "luas_bangunan": 839,
+        "harga": 23500000000
+    },
+    {
+        "id": 16,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 37,
+        "luas_bangunan": 69,
+        "harga": 887000000
+    },
+    {
+        "id": 17,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 23,
+        "luas_bangunan": 42,
+        "harga": 499000000
+    },
+    {
+        "id": 18,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1470000000
+    },
+    {
+        "id": 19,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 250,
+        "luas_bangunan": 370,
+        "harga": 8000000000
+    },
+    {
+        "id": 20,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 80,
+        "luas_bangunan": 110,
+        "harga": 1880000000
+    },
+    {
+        "id": 21,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 37,
+        "luas_bangunan": 69,
+        "harga": 887000000
+    },
+    {
+        "id": 22,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 33,
+        "luas_bangunan": 50,
+        "harga": 781000000
+    },
+    {
+        "id": 23,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 36,
+        "luas_bangunan": 56,
+        "harga": 852000000
+    },
+    {
+        "id": 24,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 30,
+        "luas_bangunan": 56,
+        "harga": 762000000
+    },
+    {
+        "id": 25,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 67,
+        "luas_bangunan": 94,
+        "harga": 1260000000
+    },
+    {
+        "id": 26,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1470000000
+    },
+    {
+        "id": 27,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 28,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 40,
+        "harga": 1020000000
+    },
+    {
+        "id": 29,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 180,
+        "harga": 1650000000
+    },
+    {
+        "id": 30,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 31,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 95,
+        "harga": 1040000000
+    },
+    {
+        "id": 32,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 154,
+        "luas_bangunan": 120,
+        "harga": 1580000000
+    },
+    {
+        "id": 33,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 60,
+        "harga": 2160000000
+    },
+    {
+        "id": 34,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 135,
+        "harga": 1200000000
+    },
+    {
+        "id": 35,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 194,
+        "luas_bangunan": 120,
+        "harga": 4200000000
+    },
+    {
+        "id": 36,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 88,
+        "luas_bangunan": 40,
+        "harga": 699000000
+    },
+    {
+        "id": 37,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 36,
+        "harga": 725000000
+    },
+    {
+        "id": 38,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 83,
+        "luas_bangunan": 45,
+        "harga": 500000000
+    },
+    {
+        "id": 39,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 39,
+        "harga": 930000000
+    },
+    {
+        "id": 40,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 45,
+        "harga": 900000000
+    },
+    {
+        "id": 41,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 280,
+        "harga": 6000000000
+    },
+    {
+        "id": 42,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 265,
+        "luas_bangunan": 200,
+        "harga": 3840000000
+    },
+    {
+        "id": 43,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 162,
+        "luas_bangunan": 130,
+        "harga": 3180000000
+    },
+    {
+        "id": 44,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 160,
+        "luas_bangunan": 145,
+        "harga": 3000000000
+    },
+    {
+        "id": 45,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 133,
+        "luas_bangunan": 85,
+        "harga": 1560000000
+    },
+    {
+        "id": 46,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 133,
+        "luas_bangunan": 200,
+        "harga": 2460000000
+    },
+    {
+        "id": 47,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 300,
+        "luas_bangunan": 500,
+        "harga": 24900000000
+    },
+    {
+        "id": 48,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 250,
+        "harga": 7190000000
+    },
+    {
+        "id": 49,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 40,
+        "harga": 350000000
+    },
+    {
+        "id": 50,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 208,
+        "luas_bangunan": 485,
+        "harga": 10500000000
+    },
+    {
+        "id": 51,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 69,
+        "harga": 1010000000
+    },
+    {
+        "id": 52,
+        "kota": "Gowa",
+        "kamar_tidur": 8,
+        "kamar_mandi": 8,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 100,
+        "harga": 590000000
+    },
+    {
+        "id": 53,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 24,
+        "luas_bangunan": 38,
+        "harga": 400000000
+    },
+    {
+        "id": 54,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 217,
+        "harga": 4800000000
+    },
+    {
+        "id": 55,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 264,
+        "luas_bangunan": 485,
+        "harga": 14000000000
+    },
+    {
+        "id": 56,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 209,
+        "luas_bangunan": 278,
+        "harga": 7600000000
+    },
+    {
+        "id": 57,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 215,
+        "luas_bangunan": 200,
+        "harga": 1850000000
+    },
+    {
+        "id": 58,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 35,
+        "luas_bangunan": 200,
+        "harga": 450000000
+    },
+    {
+        "id": 59,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 895,
+        "luas_bangunan": 800,
+        "harga": 32000000000
+    },
+    {
+        "id": 60,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 327,
+        "luas_bangunan": 146,
+        "harga": 8800000000
+    },
+    {
+        "id": 61,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 495,
+        "luas_bangunan": 545,
+        "harga": 24500000000
+    },
+    {
+        "id": 62,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 84,
+        "harga": 1080000000
+    },
+    {
+        "id": 63,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 104,
+        "harga": 1500000000
+    },
+    {
+        "id": 64,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 144,
+        "harga": 960000000
+    },
+    {
+        "id": 65,
+        "kota": "Bogor",
+        "kamar_tidur": 6,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 155,
+        "harga": 1980000000
+    },
+    {
+        "id": 66,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 67,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 90,
+        "harga": 1080000000
+    },
+    {
+        "id": 68,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 90,
+        "harga": 1200000000
+    },
+    {
+        "id": 69,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 110,
+        "harga": 1440000000
+    },
+    {
+        "id": 70,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 117,
+        "luas_bangunan": 177,
+        "harga": 2600000000
+    },
+    {
+        "id": 71,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 90,
+        "harga": 1380000000
+    },
+    {
+        "id": 72,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 200,
+        "harga": 2280000000
+    },
+    {
+        "id": 73,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 2,
+        "kamar_mandi": 4,
+        "car_port": 4,
+        "luas_tanah": 174,
+        "luas_bangunan": 146,
+        "harga": 3550000000
+    },
+    {
+        "id": 74,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 6,
+        "kamar_mandi": 6,
+        "car_port": 4,
+        "luas_tanah": 883,
+        "luas_bangunan": 1200,
+        "harga": 43500000000
+    },
+    {
+        "id": 75,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 101,
+        "luas_bangunan": 78,
+        "harga": 901000000
+    },
+    {
+        "id": 76,
+        "kota": "Biak Numfor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 150,
+        "luas_bangunan": 96,
+        "harga": 1550000000
+    },
+    {
+        "id": 77,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 130,
+        "harga": 1710000000
+    },
+    {
+        "id": 78,
+        "kota": "Bandung",
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 400,
+        "luas_bangunan": 390,
+        "harga": 5200000000
+    },
+    {
+        "id": 79,
+        "kota": "Bandung",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 100,
+        "harga": 878000000
+    },
+    {
+        "id": 80,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 43,
+        "luas_bangunan": 71,
+        "harga": 1000000000
+    },
+    {
+        "id": 81,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 20,
+        "luas_bangunan": 37,
+        "harga": 400000000
+    },
+    {
+        "id": 82,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 36,
+        "harga": 785000000
+    },
+    {
+        "id": 83,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 193,
+        "harga": 4980000000
+    },
+    {
+        "id": 84,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 124,
+        "luas_bangunan": 138,
+        "harga": 3190000000
+    },
+    {
+        "id": 85,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 184,
+        "luas_bangunan": 450,
+        "harga": 8500000000
+    },
+    {
+        "id": 86,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 525,
+        "luas_bangunan": 900,
+        "harga": 55000000000
+    },
+    {
+        "id": 87,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 300,
+        "harga": 6000000000
+    },
+    {
+        "id": 88,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 70,
+        "harga": 811000000
+    },
+    {
+        "id": 89,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 97,
+        "luas_bangunan": 120,
+        "harga": 2340000000
+    },
+    {
+        "id": 90,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 97,
+        "luas_bangunan": 70,
+        "harga": 799000000
+    },
+    {
+        "id": 91,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 232,
+        "luas_bangunan": 150,
+        "harga": 2990000000
+    },
+    {
+        "id": 92,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 157,
+        "luas_bangunan": 270,
+        "harga": 2800000000
+    },
+    {
+        "id": 93,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 126,
+        "harga": 1320000000
+    },
+    {
+        "id": 94,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 75,
+        "harga": 999000000
+    },
+    {
+        "id": 95,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 95,
+        "harga": 1260000000
+    },
+    {
+        "id": 96,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1400000000
+    },
+    {
+        "id": 97,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 130,
+        "harga": 1800000000
+    },
+    {
+        "id": 98,
+        "kota": "Bandung",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 60,
+        "harga": 400000000
+    },
+    {
+        "id": 99,
+        "kota": "Palembang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 75,
+        "harga": 1500000000
+    },
+    {
+        "id": 100,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1650000000
+    },
+    {
+        "id": 101,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 120,
+        "harga": 2040000000
+    },
+    {
+        "id": 102,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 103,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 45,
+        "harga": 660000000
+    },
+    {
+        "id": 104,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 83,
+        "harga": 995000000
+    },
+    {
+        "id": 105,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 95,
+        "harga": 1530000000
+    },
+    {
+        "id": 106,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1150000000
+    },
+    {
+        "id": 107,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 108,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 200,
+        "harga": 2700000000
+    },
+    {
+        "id": 109,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 88,
+        "harga": 1680000000
+    },
+    {
+        "id": 110,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 111,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 115,
+        "harga": 2520000000
+    },
+    {
+        "id": 112,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 4,
+        "luas_tanah": 160,
+        "luas_bangunan": 210,
+        "harga": 5200000000
+    },
+    {
+        "id": 113,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 98,
+        "harga": 1290000000
+    },
+    {
+        "id": 114,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 100,
+        "harga": 1200000000
+    },
+    {
+        "id": 115,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 42,
+        "harga": 780000000
+    },
+    {
+        "id": 116,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 18,
+        "luas_bangunan": 35,
+        "harga": 418000000
+    },
+    {
+        "id": 117,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 68,
+        "luas_bangunan": 36,
+        "harga": 500000000
+    },
+    {
+        "id": 118,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 67,
+        "luas_bangunan": 94,
+        "harga": 1260000000
+    },
+    {
+        "id": 119,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 23,
+        "luas_bangunan": 43,
+        "harga": 506000000
+    },
+    {
+        "id": 120,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 65,
+        "harga": 960000000
+    },
+    {
+        "id": 121,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 61,
+        "luas_bangunan": 99,
+        "harga": 2270000000
+    },
+    {
+        "id": 122,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 100,
+        "harga": 1440000000
+    },
+    {
+        "id": 123,
+        "kota": "Tangerang",
+        "kamar_tidur": 6,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 170,
+        "harga": 1320000000
+    },
+    {
+        "id": 124,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 76,
+        "luas_bangunan": 67,
+        "harga": 1680000000
+    },
+    {
+        "id": 125,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 126,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 160,
+        "luas_bangunan": 180,
+        "harga": 5700000000
+    },
+    {
+        "id": 127,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 40,
+        "harga": 1020000000
+    },
+    {
+        "id": 128,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 129,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 130,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 153,
+        "luas_bangunan": 200,
+        "harga": 1550000000
+    },
+    {
+        "id": 131,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 39,
+        "luas_bangunan": 84,
+        "harga": 930000000
+    },
+    {
+        "id": 132,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 45,
+        "harga": 900000000
+    },
+    {
+        "id": 133,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 90,
+        "harga": 859000000
+    },
+    {
+        "id": 134,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 65,
+        "luas_bangunan": 38,
+        "harga": 368000000
+    },
+    {
+        "id": 135,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 66,
+        "luas_bangunan": 87,
+        "harga": 950000000
+    },
+    {
+        "id": 136,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 164,
+        "harga": 990000000
+    },
+    {
+        "id": 137,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 90,
+        "harga": 1080000000
+    },
+    {
+        "id": 138,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 97,
+        "luas_bangunan": 70,
+        "harga": 799000000
+    },
+    {
+        "id": 139,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 81,
+        "luas_bangunan": 81,
+        "harga": 900000000
+    },
+    {
+        "id": 140,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 160,
+        "harga": 1320000000
+    },
+    {
+        "id": 141,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 98,
+        "luas_bangunan": 78,
+        "harga": 1200000000
+    },
+    {
+        "id": 142,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 113,
+        "luas_bangunan": 140,
+        "harga": 1660000000
+    },
+    {
+        "id": 143,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 110,
+        "luas_bangunan": 140,
+        "harga": 2640000000
+    },
+    {
+        "id": 144,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 90,
+        "harga": 1680000000
+    },
+    {
+        "id": 145,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 180,
+        "harga": 1440000000
+    },
+    {
+        "id": 146,
+        "kota": "Batam",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 112,
+        "luas_bangunan": 138,
+        "harga": 1580000000
+    },
+    {
+        "id": 147,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 70,
+        "luas_bangunan": 36,
+        "harga": 530000000
+    },
+    {
+        "id": 148,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 180,
+        "harga": 840000000
+    },
+    {
+        "id": 149,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 181,
+        "luas_bangunan": 175,
+        "harga": 5500000000
+    },
+    {
+        "id": 150,
+        "kota": "Sleman",
+        "kamar_tidur": 5,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 130,
+        "luas_bangunan": 161,
+        "harga": 1700000000
+    },
+    {
+        "id": 151,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 88,
+        "luas_bangunan": 40,
+        "harga": 699000000
+    },
+    {
+        "id": 152,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 103,
+        "luas_bangunan": 90,
+        "harga": 960000000
+    },
+    {
+        "id": 153,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 157,
+        "luas_bangunan": 270,
+        "harga": 2800000000
+    },
+    {
+        "id": 154,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1400000000
+    },
+    {
+        "id": 155,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 156,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 55,
+        "luas_bangunan": 27,
+        "harga": 399000000
+    },
+    {
+        "id": 157,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 38,
+        "luas_bangunan": 27,
+        "harga": 950000000
+    },
+    {
+        "id": 158,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 34,
+        "luas_bangunan": 69,
+        "harga": 791000000
+    },
+    {
+        "id": 159,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 250,
+        "luas_bangunan": 350,
+        "harga": 7990000000
+    },
+    {
+        "id": 160,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 270,
+        "luas_bangunan": 350,
+        "harga": 8490000000
+    },
+    {
+        "id": 161,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 450,
+        "harga": 10900000000
+    },
+    {
+        "id": 162,
+        "kota": "Bandung",
+        "kamar_tidur": 8,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 824,
+        "luas_bangunan": 800,
+        "harga": 6800000000
+    },
+    {
+        "id": 163,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 100,
+        "luas_bangunan": 150,
+        "harga": 1600000000
+    },
+    {
+        "id": 164,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 125,
+        "luas_bangunan": 85,
+        "harga": 885000000
+    },
+    {
+        "id": 165,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 80,
+        "luas_bangunan": 117,
+        "harga": 1950000000
+    },
+    {
+        "id": 166,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 290,
+        "luas_bangunan": 330,
+        "harga": 11800000000
+    },
+    {
+        "id": 167,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 68,
+        "luas_bangunan": 140,
+        "harga": 2600000000
+    },
+    {
+        "id": 168,
+        "kota": "Tangerang",
+        "kamar_tidur": 7,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 3087,
+        "luas_bangunan": 2500,
+        "harga": 95000000000
+    },
+    {
+        "id": 169,
+        "kota": "Bogor",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 2,
+        "luas_tanah": 1722,
+        "luas_bangunan": 1200,
+        "harga": 39000000000
+    },
+    {
+        "id": 170,
+        "kota": "Bandung",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 560,
+        "luas_bangunan": 332,
+        "harga": 9000000000
+    },
+    {
+        "id": 171,
+        "kota": "Bandung",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 630,
+        "luas_bangunan": 550,
+        "harga": 13000000000
+    },
+    {
+        "id": 172,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 8,
+        "kamar_mandi": 8,
+        "car_port": 40,
+        "luas_tanah": 4600,
+        "luas_bangunan": 2600,
+        "harga": 70000000000
+    },
+    {
+        "id": 173,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 7,
+        "kamar_mandi": 6,
+        "car_port": 3,
+        "luas_tanah": 125,
+        "luas_bangunan": 200,
+        "harga": 2800000000
+    },
+    {
+        "id": 174,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 150,
+        "luas_bangunan": 330,
+        "harga": 4750000000
+    },
+    {
+        "id": 175,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 3,
+        "luas_tanah": 60,
+        "luas_bangunan": 45,
+        "harga": 730000000
+    },
+    {
+        "id": 176,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 65,
+        "luas_bangunan": 100,
+        "harga": 1800000000
+    },
+    {
+        "id": 177,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 500,
+        "luas_bangunan": 600,
+        "harga": 37500000000
+    },
+    {
+        "id": 178,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 220,
+        "luas_bangunan": 398,
+        "harga": 9600000000
+    },
+    {
+        "id": 179,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 207,
+        "harga": 5200000000
+    },
+    {
+        "id": 180,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 250,
+        "luas_bangunan": 195,
+        "harga": 4680000000
+    },
+    {
+        "id": 181,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 65,
+        "harga": 960000000
+    },
+    {
+        "id": 182,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 88,
+        "luas_bangunan": 63,
+        "harga": 1290000000
+    },
+    {
+        "id": 183,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 184,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 185,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 144,
+        "luas_bangunan": 300,
+        "harga": 4650000000
+    },
+    {
+        "id": 186,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 3,
+        "luas_tanah": 486,
+        "luas_bangunan": 1000,
+        "harga": 22000000000
+    },
+    {
+        "id": 187,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 105,
+        "luas_bangunan": 105,
+        "harga": 699000000
+    },
+    {
+        "id": 188,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 72,
+        "luas_bangunan": 144,
+        "harga": 960000000
+    },
+    {
+        "id": 189,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 225,
+        "luas_bangunan": 320,
+        "harga": 4000000000
+    },
+    {
+        "id": 190,
+        "kota": "Bekasi",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 252,
+        "luas_bangunan": 400,
+        "harga": 2350000000
+    },
+    {
+        "id": 191,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 130,
+        "luas_bangunan": 301,
+        "harga": 7800000000
+    },
+    {
+        "id": 192,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 83,
+        "luas_bangunan": 45,
+        "harga": 499000000
+    },
+    {
+        "id": 193,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 52,
+        "harga": 1070000000
+    },
+    {
+        "id": 194,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 90,
+        "harga": 1080000000
+    },
+    {
+        "id": 195,
+        "kota": "Surabaya",
+        "kamar_tidur": 6,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 328,
+        "luas_bangunan": 450,
+        "harga": 17800000000
+    },
+    {
+        "id": 196,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 450,
+        "harga": 790000000
+    },
+    {
+        "id": 197,
+        "kota": "Bandung",
+        "kamar_tidur": 6,
+        "kamar_mandi": 3,
+        "car_port": 4,
+        "luas_tanah": 1095,
+        "luas_bangunan": 500,
+        "harga": 15000000000
+    },
+    {
+        "id": 198,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 200,
+        "harga": 5690000000
+    },
+    {
+        "id": 199,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 23,
+        "kamar_mandi": 22,
+        "car_port": 3,
+        "luas_tanah": 249,
+        "luas_bangunan": 500,
+        "harga": 7800000000
+    },
+    {
+        "id": 200,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 68,
+        "luas_bangunan": 100,
+        "harga": 1800000000
+    },
+    {
+        "id": 201,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 57,
+        "harga": 750000000
+    },
+    {
+        "id": 202,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 60,
+        "harga": 780000000
+    },
+    {
+        "id": 203,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 660000000
+    },
+    {
+        "id": 204,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 184,
+        "luas_bangunan": 400,
+        "harga": 8500000000
+    },
+    {
+        "id": 205,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 54,
+        "harga": 800000000
+    },
+    {
+        "id": 206,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 143,
+        "luas_bangunan": 85,
+        "harga": 1560000000
+    },
+    {
+        "id": 207,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 69,
+        "luas_bangunan": 50,
+        "harga": 660000000
+    },
+    {
+        "id": 208,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 164,
+        "harga": 990000000
+    },
+    {
+        "id": 209,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 193,
+        "luas_bangunan": 90,
+        "harga": 2029999999
+    },
+    {
+        "id": 210,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 150,
+        "luas_bangunan": 115,
+        "harga": 2040000000
+    },
+    {
+        "id": 211,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 160,
+        "harga": 1320000000
+    },
+    {
+        "id": 212,
+        "kota": "Badung",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 600,
+        "luas_bangunan": 400,
+        "harga": 9900000000
+    },
+    {
+        "id": 213,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 82,
+        "luas_bangunan": 45,
+        "harga": 300000000
+    },
+    {
+        "id": 214,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 75,
+        "luas_bangunan": 98,
+        "harga": 2350000000
+    },
+    {
+        "id": 215,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 102,
+        "luas_bangunan": 280,
+        "harga": 4150000000
+    },
+    {
+        "id": 216,
+        "kota": "Sleman",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 197,
+        "luas_bangunan": 290,
+        "harga": 3150000000
+    },
+    {
+        "id": 217,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 752,
+        "luas_bangunan": 1200,
+        "harga": 55000000000
+    },
+    {
+        "id": 218,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 7,
+        "kamar_mandi": 7,
+        "car_port": 1,
+        "luas_tanah": 377,
+        "luas_bangunan": 1100,
+        "harga": 21000000000
+    },
+    {
+        "id": 219,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 140,
+        "harga": 2880000000
+    },
+    {
+        "id": 220,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 300,
+        "luas_bangunan": 400,
+        "harga": 14000000000
+    },
+    {
+        "id": 221,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 193,
+        "harga": 4980000000
+    },
+    {
+        "id": 222,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 98,
+        "luas_bangunan": 78,
+        "harga": 1200000000
+    },
+    {
+        "id": 223,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 88,
+        "harga": 1680000000
+    },
+    {
+        "id": 224,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1650000000
+    },
+    {
+        "id": 225,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 90,
+        "harga": 1380000000
+    },
+    {
+        "id": 226,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 60,
+        "harga": 570000000
+    },
+    {
+        "id": 227,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1400000000
+    },
+    {
+        "id": 228,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 71,
+        "harga": 1200000000
+    },
+    {
+        "id": 229,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 42,
+        "harga": 780000000
+    },
+    {
+        "id": 230,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 80,
+        "harga": 1200000000
+    },
+    {
+        "id": 231,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 40,
+        "harga": 630000000
+    },
+    {
+        "id": 232,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 250,
+        "luas_bangunan": 195,
+        "harga": 4680000000
+    },
+    {
+        "id": 233,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 121,
+        "luas_bangunan": 60,
+        "harga": 999000000
+    },
+    {
+        "id": 234,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 5,
+        "kamar_mandi": 5,
+        "car_port": 1,
+        "luas_tanah": 363,
+        "luas_bangunan": 450,
+        "harga": 21700000000
+    },
+    {
+        "id": 235,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 60,
+        "harga": 960000000
+    },
+    {
+        "id": 236,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 132,
+        "luas_bangunan": 125,
+        "harga": 2400000000
+    },
+    {
+        "id": 237,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 150,
+        "harga": 1380000000
+    },
+    {
+        "id": 238,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 122,
+        "luas_bangunan": 36,
+        "harga": 1030000000
+    },
+    {
+        "id": 239,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 185,
+        "luas_bangunan": 181,
+        "harga": 2900000000
+    },
+    {
+        "id": 240,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 84,
+        "harga": 1080000000
+    },
+    {
+        "id": 241,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 80,
+        "luas_bangunan": 45,
+        "harga": 660000000
+    },
+    {
+        "id": 242,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 95,
+        "harga": 1530000000
+    },
+    {
+        "id": 243,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1150000000
+    },
+    {
+        "id": 244,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 45,
+        "harga": 900000000
+    },
+    {
+        "id": 245,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 246,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 131,
+        "luas_bangunan": 140,
+        "harga": 870000000
+    },
+    {
+        "id": 247,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 112,
+        "luas_bangunan": 180,
+        "harga": 1410000000
+    },
+    {
+        "id": 248,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 76,
+        "harga": 1140000000
+    },
+    {
+        "id": 249,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 1020000000
+    },
+    {
+        "id": 250,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 144,
+        "harga": 3120000000
+    },
+    {
+        "id": 251,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 180,
+        "luas_bangunan": 115,
+        "harga": 2520000000
+    },
+    {
+        "id": 252,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 46,
+        "luas_bangunan": 84,
+        "harga": 1820000000
+    },
+    {
+        "id": 253,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 40,
+        "harga": 1020000000
+    },
+    {
+        "id": 254,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 72,
+        "harga": 1500000000
+    },
+    {
+        "id": 255,
+        "kota": "Tangerang",
+        "kamar_tidur": 6,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 170,
+        "harga": 1320000000
+    },
+    {
+        "id": 256,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 70,
+        "luas_bangunan": 36,
+        "harga": 530000000
+    },
+    {
+        "id": 257,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 165,
+        "luas_bangunan": 160,
+        "harga": 2550000000
+    },
+    {
+        "id": 258,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 104,
+        "luas_bangunan": 60,
+        "harga": 1080000000
+    },
+    {
+        "id": 259,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 260,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 261,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 144,
+        "harga": 960000000
+    },
+    {
+        "id": 262,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 445,
+        "luas_bangunan": 400,
+        "harga": 7500000000
+    },
+    {
+        "id": 263,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 300,
+        "harga": 6200000000
+    },
+    {
+        "id": 264,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 55,
+        "luas_bangunan": 27,
+        "harga": 450000000
+    },
+    {
+        "id": 265,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 4,
+        "luas_tanah": 288,
+        "luas_bangunan": 600,
+        "harga": 13500000000
+    },
+    {
+        "id": 266,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 4,
+        "luas_tanah": 83,
+        "luas_bangunan": 45,
+        "harga": 499000000
+    },
+    {
+        "id": 267,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 4,
+        "luas_tanah": 200,
+        "luas_bangunan": 294,
+        "harga": 5800000000
+    },
+    {
+        "id": 268,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 75,
+        "luas_bangunan": 204,
+        "harga": 3550000000
+    },
+    {
+        "id": 269,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 164,
+        "luas_bangunan": 100,
+        "harga": 1440000000
+    },
+    {
+        "id": 270,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 160,
+        "luas_bangunan": 240,
+        "harga": 7500000000
+    },
+    {
+        "id": 271,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 70,
+        "harga": 580000000
+    },
+    {
+        "id": 272,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 395,
+        "luas_bangunan": 750,
+        "harga": 33000000000
+    },
+    {
+        "id": 273,
+        "kota": "Jakarta Pusat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 519,
+        "luas_bangunan": 500,
+        "harga": 41000000000
+    },
+    {
+        "id": 274,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 76,
+        "luas_bangunan": 67,
+        "harga": 1680000000
+    },
+    {
+        "id": 275,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 153,
+        "luas_bangunan": 200,
+        "harga": 1550000000
+    },
+    {
+        "id": 276,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 84,
+        "luas_bangunan": 39,
+        "harga": 930000000
+    },
+    {
+        "id": 277,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 52,
+        "harga": 1070000000
+    },
+    {
+        "id": 278,
+        "kota": "Bekasi",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 90,
+        "harga": 1080000000
+    },
+    {
+        "id": 279,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 123,
+        "luas_bangunan": 105,
+        "harga": 1680000000
+    },
+    {
+        "id": 280,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 281,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 81,
+        "luas_bangunan": 45,
+        "harga": 899000000
+    },
+    {
+        "id": 282,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 109,
+        "luas_bangunan": 90,
+        "harga": 1560000000
+    },
+    {
+        "id": 283,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 866,
+        "luas_bangunan": 250,
+        "harga": 11500000000
+    },
+    {
+        "id": 284,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 6,
+        "luas_tanah": 200,
+        "luas_bangunan": 230,
+        "harga": 4800000000
+    },
+    {
+        "id": 285,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 6,
+        "luas_tanah": 178,
+        "luas_bangunan": 230,
+        "harga": 5900000000
+    },
+    {
+        "id": 286,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 60,
+        "harga": 600000000
+    },
+    {
+        "id": 287,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 206,
+        "luas_bangunan": 60,
+        "harga": 4900000000
+    },
+    {
+        "id": 288,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 6,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 126,
+        "luas_bangunan": 190,
+        "harga": 2300000000
+    },
+    {
+        "id": 289,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 25,
+        "luas_bangunan": 190,
+        "harga": 418000000
+    },
+    {
+        "id": 290,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 15,
+        "kamar_mandi": 16,
+        "car_port": 7,
+        "luas_tanah": 505,
+        "luas_bangunan": 450,
+        "harga": 14600000000
+    },
+    {
+        "id": 291,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 48,
+        "luas_bangunan": 67,
+        "harga": 1470000000
+    },
+    {
+        "id": 292,
+        "kota": "Batam",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 145,
+        "harga": 1500000000
+    },
+    {
+        "id": 293,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 206,
+        "luas_bangunan": 145,
+        "harga": 4900000000
+    },
+    {
+        "id": 294,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 200,
+        "harga": 3200000000
+    },
+    {
+        "id": 295,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 126,
+        "harga": 1320000000
+    },
+    {
+        "id": 296,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 250,
+        "harga": 7700000000
+    },
+    {
+        "id": 297,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 170,
+        "harga": 4200000000
+    },
+    {
+        "id": 298,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 1,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 25,
+        "luas_bangunan": 170,
+        "harga": 600000000
+    },
+    {
+        "id": 299,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 120,
+        "harga": 570000000
+    },
+    {
+        "id": 300,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 150,
+        "luas_bangunan": 150,
+        "harga": 3250000000
+    },
+    {
+        "id": 301,
+        "kota": "Semarang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 123,
+        "harga": 1950000000
+    },
+    {
+        "id": 302,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 38,
+        "luas_bangunan": 100,
+        "harga": 1250000000
+    },
+    {
+        "id": 303,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 118,
+        "luas_bangunan": 158,
+        "harga": 2900000000
+    },
+    {
+        "id": 304,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 186,
+        "harga": 3500000000
+    },
+    {
+        "id": 305,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 36,
+        "luas_bangunan": 90,
+        "harga": 1390000000
+    },
+    {
+        "id": 306,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 150,
+        "harga": 1490000000
+    },
+    {
+        "id": 307,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 180,
+        "harga": 3500000000
+    },
+    {
+        "id": 308,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 118,
+        "luas_bangunan": 150,
+        "harga": 2900000000
+    },
+    {
+        "id": 309,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 65,
+        "harga": 340000000
+    },
+    {
+        "id": 310,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 68,
+        "luas_bangunan": 168,
+        "harga": 2190000000
+    },
+    {
+        "id": 311,
+        "kota": "Surabaya",
+        "kamar_tidur": 5,
+        "kamar_mandi": 6,
+        "car_port": 2,
+        "luas_tanah": 300,
+        "luas_bangunan": 490,
+        "harga": 11000000000
+    },
+    {
+        "id": 312,
+        "kota": "Surabaya",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 120,
+        "harga": 2000000000
+    },
+    {
+        "id": 313,
+        "kota": "Cikarang",
+        "kamar_tidur": 10,
+        "kamar_mandi": 10,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 150,
+        "harga": 1350000000
+    },
+    {
+        "id": 314,
+        "kota": "Badung",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 350,
+        "luas_bangunan": 120,
+        "harga": 4000000000
+    },
+    {
+        "id": 315,
+        "kota": "Jakarta Utara",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 45,
+        "luas_bangunan": 68,
+        "harga": 1350000000
+    },
+    {
+        "id": 316,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 56,
+        "luas_bangunan": 66,
+        "harga": 641000000
+    },
+    {
+        "id": 317,
+        "kota": "Tangerang",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 214,
+        "luas_bangunan": 350,
+        "harga": 4600000000
+    },
+    {
+        "id": 318,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 90,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 319,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 60,
+        "harga": 570000000
+    },
+    {
+        "id": 320,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 108,
+        "luas_bangunan": 164,
+        "harga": 990000000
+    },
+    {
+        "id": 321,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 322,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 87,
+        "luas_bangunan": 45,
+        "harga": 690000000
+    },
+    {
+        "id": 323,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 324,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 152,
+        "luas_bangunan": 88,
+        "harga": 1680000000
+    },
+    {
+        "id": 325,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 140,
+        "harga": 1560000000
+    },
+    {
+        "id": 326,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 185,
+        "luas_bangunan": 181,
+        "harga": 2900000000
+    },
+    {
+        "id": 327,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 42,
+        "harga": 780000000
+    },
+    {
+        "id": 328,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 68,
+        "luas_bangunan": 36,
+        "harga": 500000000
+    },
+    {
+        "id": 329,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 94,
+        "luas_bangunan": 70,
+        "harga": 1090000000
+    },
+    {
+        "id": 330,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 96,
+        "luas_bangunan": 75,
+        "harga": 999000000
+    },
+    {
+        "id": 331,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 90,
+        "harga": 1380000000
+    },
+    {
+        "id": 332,
+        "kota": "Bogor",
+        "kamar_tidur": 5,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 104,
+        "luas_bangunan": 180,
+        "harga": 1500000000
+    },
+    {
+        "id": 333,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 72,
+        "luas_bangunan": 50,
+        "harga": 449000000
+    },
+    {
+        "id": 334,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1650000000
+    },
+    {
+        "id": 335,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1560000000
+    },
+    {
+        "id": 336,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 2,
+        "luas_tanah": 80,
+        "luas_bangunan": 45,
+        "harga": 660000000
+    },
+    {
+        "id": 337,
+        "kota": "Depok",
+        "kamar_tidur": 5,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 83,
+        "luas_bangunan": 154,
+        "harga": 1050000000
+    },
+    {
+        "id": 338,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 120,
+        "luas_bangunan": 200,
+        "harga": 2700000000
+    },
+    {
+        "id": 339,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 69,
+        "luas_bangunan": 70,
+        "harga": 1080000000
+    },
+    {
+        "id": 340,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 60,
+        "harga": 570000000
+    },
+    {
+        "id": 341,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 108,
+        "luas_bangunan": 164,
+        "harga": 990000000
+    },
+    {
+        "id": 342,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 343,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 87,
+        "luas_bangunan": 45,
+        "harga": 690000000
+    },
+    {
+        "id": 344,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 115,
+        "luas_bangunan": 145,
+        "harga": 1560000000
+    },
+    {
+        "id": 345,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 88,
+        "harga": 1680000000
+    },
+    {
+        "id": 346,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 42,
+        "harga": 780000000
+    },
+    {
+        "id": 347,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 75,
+        "harga": 999000000
+    },
+    {
+        "id": 348,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 50,
+        "harga": 449000000
+    },
+    {
+        "id": 349,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 78,
+        "luas_bangunan": 110,
+        "harga": 1650000000
+    },
+    {
+        "id": 350,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 95,
+        "harga": 1530000000
+    },
+    {
+        "id": 351,
+        "kota": "Depok",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 151,
+        "luas_bangunan": 150,
+        "harga": 1500000000
+    },
+    {
+        "id": 352,
+        "kota": "Bekasi",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 2,
+        "luas_tanah": 113,
+        "luas_bangunan": 85,
+        "harga": 920000000
+    },
+    {
+        "id": 353,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 70,
+        "luas_bangunan": 85,
+        "harga": 920000000
+    },
+    {
+        "id": 354,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 2,
+        "luas_tanah": 97,
+        "luas_bangunan": 120,
+        "harga": 2340000000
+    },
+    {
+        "id": 355,
+        "kota": "Bandung",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 200,
+        "luas_bangunan": 100,
+        "harga": 650000000
+    },
+    {
+        "id": 356,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 112,
+        "luas_bangunan": 100,
+        "harga": 1360000000
+    },
+    {
+        "id": 357,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 200,
+        "harga": 2700000000
+    },
+    {
+        "id": 358,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 194,
+        "luas_bangunan": 120,
+        "harga": 4200000000
+    },
+    {
+        "id": 359,
+        "kota": "Bekasi",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 150,
+        "harga": 2200000000
+    },
+    {
+        "id": 360,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 112,
+        "luas_bangunan": 180,
+        "harga": 1410000000
+    },
+    {
+        "id": 361,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 96,
+        "luas_bangunan": 75,
+        "harga": 999000000
+    },
+    {
+        "id": 362,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 131,
+        "luas_bangunan": 140,
+        "harga": 870000000
+    },
+    {
+        "id": 363,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 140,
+        "luas_bangunan": 176,
+        "harga": 5050000000
+    },
+    {
+        "id": 364,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 105,
+        "luas_bangunan": 135,
+        "harga": 3830000000
+    },
+    {
+        "id": 365,
+        "kota": "Tangerang",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 200,
+        "luas_bangunan": 155,
+        "harga": 4269999999
+    },
+    {
+        "id": 366,
+        "kota": "Depok",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 98,
+        "luas_bangunan": 68,
+        "harga": 780000000
+    },
+    {
+        "id": 367,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 180,
+        "harga": 1850000000
+    },
+    {
+        "id": 368,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 192,
+        "luas_bangunan": 133,
+        "harga": 3350000000
+    },
+    {
+        "id": 369,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 18,
+        "luas_bangunan": 33,
+        "harga": 424000000
+    },
+    {
+        "id": 370,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 1,
+        "car_port": 3,
+        "luas_tanah": 103,
+        "luas_bangunan": 90,
+        "harga": 960000000
+    },
+    {
+        "id": 371,
+        "kota": "Depok",
+        "kamar_tidur": 2,
+        "kamar_mandi": 3,
+        "car_port": 3,
+        "luas_tanah": 98,
+        "luas_bangunan": 78,
+        "harga": 1200000000
+    },
+    {
+        "id": 372,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 3,
+        "luas_tanah": 84,
+        "luas_bangunan": 76,
+        "harga": 1140000000
+    },
+    {
+        "id": 373,
+        "kota": "Jakarta Selatan",
+        "kamar_tidur": 5,
+        "kamar_mandi": 4,
+        "car_port": 2,
+        "luas_tanah": 164,
+        "luas_bangunan": 404,
+        "harga": 6400000000
+    },
+    {
+        "id": 374,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 152,
+        "luas_bangunan": 88,
+        "harga": 1680000000
+    },
+    {
+        "id": 375,
+        "kota": "Bogor",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 126,
+        "luas_bangunan": 180,
+        "harga": 1440000000
+    },
+    {
+        "id": 376,
+        "kota": "Jakarta Barat",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 22,
+        "luas_bangunan": 42,
+        "harga": 528000000
+    },
+    {
+        "id": 377,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 84,
+        "luas_bangunan": 54,
+        "harga": 1020000000
+    },
+    {
+        "id": 378,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 132,
+        "luas_bangunan": 125,
+        "harga": 2400000000
+    },
+    {
+        "id": 379,
+        "kota": "Bogor",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 105,
+        "luas_bangunan": 150,
+        "harga": 1380000000
+    },
+    {
+        "id": 380,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 121,
+        "luas_bangunan": 60,
+        "harga": 999000000
+    },
+    {
+        "id": 381,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 63,
+        "luas_bangunan": 99,
+        "harga": 2089999999
+    },
+    {
+        "id": 382,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 60,
+        "harga": 960000000
+    },
+    {
+        "id": 383,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 136,
+        "luas_bangunan": 170,
+        "harga": 2750000000
+    },
+    {
+        "id": 384,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 4,
+        "car_port": 1,
+        "luas_tanah": 157,
+        "luas_bangunan": 270,
+        "harga": 2800000000
+    },
+    {
+        "id": 385,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 120,
+        "luas_bangunan": 70,
+        "harga": 1200000000
+    },
+    {
+        "id": 386,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 128,
+        "luas_bangunan": 144,
+        "harga": 3120000000
+    },
+    {
+        "id": 387,
+        "kota": "Bogor",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 75,
+        "luas_bangunan": 50,
+        "harga": 780000000
+    },
+    {
+        "id": 388,
+        "kota": "Jakarta Timur",
+        "kamar_tidur": 3,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 180,
+        "luas_bangunan": 115,
+        "harga": 2520000000
+    },
+    {
+        "id": 389,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 4,
+        "kamar_mandi": 3,
+        "car_port": 1,
+        "luas_tanah": 90,
+        "luas_bangunan": 140,
+        "harga": 1320000000
+    },
+    {
+        "id": 390,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 55,
+        "luas_bangunan": 27,
+        "harga": 399000000
+    },
+    {
+        "id": 391,
+        "kota": "Tangerang",
+        "kamar_tidur": 6,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 91,
+        "luas_bangunan": 170,
+        "harga": 1320000000
+    },
+    {
+        "id": 392,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 76,
+        "luas_bangunan": 67,
+        "harga": 1680000000
+    },
+    {
+        "id": 393,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 1,
+        "car_port": 1,
+        "luas_tanah": 119,
+        "luas_bangunan": 62,
+        "harga": 960000000
+    },
+    {
+        "id": 394,
+        "kota": "Tangerang",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 144,
+        "luas_bangunan": 180,
+        "harga": 1650000000
+    },
+    {
+        "id": 395,
+        "kota": "Tangerang",
+        "kamar_tidur": 2,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 60,
+        "luas_bangunan": 65,
+        "harga": 1080000000
+    },
+    {
+        "id": 396,
+        "kota": "Tangerang Selatan",
+        "kamar_tidur": 3,
+        "kamar_mandi": 2,
+        "car_port": 1,
+        "luas_tanah": 72,
+        "luas_bangunan": 95,
+        "harga": 1040000000
+    }
+]

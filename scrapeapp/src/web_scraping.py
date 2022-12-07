@@ -24,9 +24,8 @@ def extract_harga(harga):
 
 
 def scrape(object):
-    page = 1
     id = 1
-    while page != 21:
+    for page in range(21, 101):
         print("Sedang melakukan scraping halaman-"+str(page))
         url = f'https://www.rumah123.com/jual/residensial/?bedroom=1&bathroom=1&minBuiltupSize=1&page={page}#qid~0c306a83-00e9-4b15-9b22-dc820d9b9ba6'
         pages = requests.get(url, headers=headers)
@@ -36,7 +35,8 @@ def scrape(object):
         
         for property in properties:
             prop_att = property.find("div", "ui-organisms-card-r123-featured__middle-section__attribute")
-            
+            alamat = property.find('p', 'ui-organisms-card-r123-featured__middle-section__address').text.strip()
+            kota = alamat.split(", ")[1]
             # Kamar and Car Port
             attributes = ([kamar.text for kamar in prop_att.find_all(class_="relative ui-molecules-list__item")])
             kamar_tidur = int(attributes[0])
@@ -63,6 +63,7 @@ def scrape(object):
 
             result = {
                 "id": id,
+                "kota": kota,
                 "kamar_tidur": kamar_tidur,
                 "kamar_mandi": kamar_mandi,
                 "car_port": car_port,
@@ -73,8 +74,6 @@ def scrape(object):
 
             object.append(result)
             id += 1
-
-        page += 1
 
 def main():
     filename = input("Nama file: ")

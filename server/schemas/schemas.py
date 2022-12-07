@@ -3,6 +3,7 @@ from typing import Optional
 
 
 class Property(BaseModel):
+    kota = str
     kamar_tidur: int
     kamar_mandi: int
     car_port: int

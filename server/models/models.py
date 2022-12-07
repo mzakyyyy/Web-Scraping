@@ -5,6 +5,7 @@ from config.database import Base
 class Property(Base):
     __tablename__ = 'properties'
     id = Column(Integer, primary_key=True, index=True)
+    kota = Column(String)
     kamar_tidur = Column(Integer)
     kamar_mandi = Column(Integer)
     car_port = Column(Integer)
