@@ -13,6 +13,7 @@ class Property(BaseModel):
     class Config :
         schema_extra = {
             "example": {
+                "kota": "Jakarta Selatan",
                 "kamar_tidur": 8,
                 "kamar_mandi": 4,
                 "car_port": 2,

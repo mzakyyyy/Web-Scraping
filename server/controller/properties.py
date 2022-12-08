@@ -102,6 +102,32 @@ def calculator(harga: int, jangka_waktu: int, suku_bunga_fixed: float, masa_kred
     cicilan_sisa_total = cicilan_pokok + bunga_sisa_per_bulan
 
     cicilan = [round(cicilan_total), round(cicilan_sisa_total)]
+    total = (cicilan[0]*12*masa_kredit_fix)+(cicilan[1]*12*(jangka_waktu-masa_kredit_fix))
+    total = "{:,}".format(total)
+    total = total.replace(",", ".")
+
+    harga = "{:,}".format(harga)
+    harga = harga.replace(",", ".")
+    for i in range(len(cicilan)):
+        cicilan[i] = "{:,}".format(cicilan[i])
+        cicilan[i] = str(cicilan[i]).replace(',', '.')
+    return {
+        "Informasi Pinjaman Anda": {
+            "Harga Jual Properti": f'Rp {harga}',
+            "Tenor": f'{jangka_waktu} tahun',
+        },
+        "Angsuran Termin 1": {
+            "Masa Kredit Termin 1": f'{masa_kredit_fix} tahun',
+            "Suku Bunga Termin 1": f'{suku_bunga_fixed} %',
+            "Cicilan per Bulan Termin 1": f'Rp {cicilan[0]}'
+        },
+        "Angsuran Termin 2": {
+            "Masa Kredit Termin 2": f'{jangka_waktu-masa_kredit_fix} tahun',
+            "Suku Bunga Termin 2": f'{suku_bunga_floating} %',
+            "Cicilan per Bulan Termin 2": f'Rp {cicilan[1]}'
+        },
+        "Jumlah uang yang harus Anda keluarkan": f'Rp {total}'
+    }
     return cicilan
 
 
@@ -122,7 +148,7 @@ def cicilan_calculator_bank(harga: int, bank: BankName, jangka_waktu: int, suku_
         masa_kredit_fix = 1
         cicilan = calculator(harga, jangka_waktu, suku_bunga_fixed,
                              masa_kredit_fix, suku_bunga_floating)
-    return cicilan
+    return (f"Bank Penyedia: {bank.value}", cicilan)
 
 
 def kpr_properties(jangka_waktu: int, max_cicilan_awal: int, max_cicilan_akhir: int, db: Session):

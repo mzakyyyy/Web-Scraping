@@ -18,3 +18,12 @@ def create(request: schemas.User, db: Session):
 def retrieve_user(db: Session):
     user = db.query(models.User.email).all()
     return user
+
+def delete(id: int, db: Session):
+    user = db.query(models.User).filter(models.User.id == id)
+    if not user.first():
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
+                            detail=f"User dengan id {id} tidak ada")
+    user.delete(synchronize_session=False)
+    db.commit()
+    return {"Message": f"user dengan id {id} telah dihapus"}
